@@ -1,0 +1,6 @@
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/ms4343/tmux
+[submodule "bash"]
+	path = bash
+	url = https://github.com/ms4343/bash
