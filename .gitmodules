@@ -4,3 +4,6 @@
 [submodule "bash"]
 	path = bash
 	url = https://github.com/ms4343/bash
+[submodule "vim"]
+	path = vim
+	url = https://github.com/ms4343/vim
